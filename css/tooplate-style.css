@@ -123,8 +123,9 @@ b, strong {
   font-size: 38px;
   line-height: inherit;
   display: block;
+  white-space: nowrap;
   opacity: 0;
-  overflow: hidden;
+  /* overflow: hidden; */
   position: absolute;
   top: 0;
   right: 0;
